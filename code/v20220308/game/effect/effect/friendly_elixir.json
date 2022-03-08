@@ -1,0 +1,23 @@
+{
+  "NAME": "friendly_elixir",
+  "MAGICS": [
+    {
+      "NAME": "magic0082",
+      "CX": 0,
+      "CY": -76,
+      "INTERVAL": 80,
+      "REPEAT": false,
+      "COLOR_ADD": [0, 0, 0],
+      "SPECIAL_FLAG": 0
+    },
+    {
+      "NAME": "magic0116",
+      "CX": 0,
+      "CY": -56,
+      "INTERVAL": 50,
+      "REPEAT": false,
+      "ALPHA": [32, 64, 96, 128, 160, 192, 224 ,255, 255, 224, 192, 160, 128, 96, 64, 32],
+      "SPECIAL_FLAG": 0
+    }
+  ]
+}

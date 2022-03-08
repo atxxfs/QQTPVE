@@ -1,0 +1,26 @@
+{
+  "NAME": "indicator",
+  "MAGICS": [
+    {
+      "NAME": "magic0127",
+      "CX": 0,
+      "CY": -60,
+      "INTERVAL": 80,
+      "REPEAT": true,
+      "COLOR_ADD": [0, 0, 0],
+      "COLOR_SUB": [0, 0, 0],
+      "ALPHA": [128, 96, 64, 32, 64, 96],
+      "SPECIAL_FLAG": 0
+    },
+    {
+      "NAME": "magic0128",
+      "CX": 0,
+      "CY": -60,
+      "INTERVAL": 80,
+      "REPEAT": true,
+      "COLOR_ADD": [0, 0, 0],
+      "COLOR_SUB": [0, 0, 0],
+      "SPECIAL_FLAG": 0
+    }
+  ]
+}

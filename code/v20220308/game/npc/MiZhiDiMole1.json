@@ -1,0 +1,12 @@
+{
+  "name": "MiZhiDiMole1",
+  "chs_name": "鼹鼠工人",
+  "character": "Character18708",
+  "blood": 1500,
+  "speed": 2.5,
+  "contact": 200,
+  "defense": 400,
+  "resent_dist": 7,
+  "skills": [
+  ]
+}

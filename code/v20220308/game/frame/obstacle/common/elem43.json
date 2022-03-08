@@ -1,0 +1,28 @@
+{
+  "TYPE": "common",
+  "NAME": "elem43",
+  "WIDTH": 1,
+  "HEIGHT": 1,
+  "BLOCK": [[[1, 1]], [[1], [1]]],
+  "BREAKABLE": true,
+  "CAN_HIDE": false,
+  "INTERVAL": 100,
+
+  "STAND": {
+    "IMG": [
+      "elem43_stand_0_0.png"
+    ],
+    "CX": [-1],
+    "CY": [-13]
+  },
+
+  "DIE": {
+    "IMG": [
+      "elem43_stand_0_0.png",
+      "elem43_stand_0_1.png",
+      "elem43_stand_0_2.png"
+    ],
+    "CX": [-1, -2, -2],
+    "CY": [-13, -18, -20]
+  }
+}

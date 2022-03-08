@@ -1,0 +1,12 @@
+{
+  "name": "HeiLongCubDragonBlue1",
+  "chs_name": "小火龙",
+  "character": "Character18602",
+  "blood": 20000,
+  "speed": 3.5,
+  "contact": 1000,
+  "defense": 3000,
+  "resent_dist": 7,
+  "skills": [
+  ]
+}

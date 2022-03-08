@@ -1,0 +1,12 @@
+{
+  "name": "HeiLongMagmaMonsBlue",
+  "chs_name": "岩浆兽",
+  "character": "Character18604",
+  "blood": 30000,
+  "speed": 2.5,
+  "contact": 2000,
+  "defense": 4000,
+  "resent_dist": 7,
+  "skills": [
+  ]
+}

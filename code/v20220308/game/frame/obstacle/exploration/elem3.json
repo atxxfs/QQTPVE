@@ -1,0 +1,22 @@
+{
+  "TYPE": "exploration",
+  "NAME": "elem3",
+  "WIDTH": 3,
+  "HEIGHT": 1,
+  "BLOCK": [[[1, 1], [1, 1], [1, 1]], [[1], [1], [1], [1]]],
+  "BREAKABLE": false,
+  "CAN_HIDE": false,
+  "INTERVAL": 100,
+
+  "STAND": {
+      "IMG": [
+        "elem3_stand_0_0.png",
+        "elem3_stand_0_1.png",
+        "elem3_stand_0_2.png",
+        "elem3_stand_0_3.png"
+      ],
+      "CX": [-1, -1, -1, -1],
+      "CY": [-2, -2, -2, -2]
+  }
+
+}

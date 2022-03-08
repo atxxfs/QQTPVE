@@ -1,0 +1,19 @@
+{
+  "TYPE": "bomb",
+  "NAME": "elem3",
+  "WIDTH": 6,
+  "HEIGHT": 1,
+  "BLOCK": [[[1, 1], [1, 1], [1, 1], [1, 1], [1, 1], [1, 1]], [[1], [1], [1], [1], [1], [1], [1]]],
+  "BREAKABLE": false,
+  "CAN_HIDE": false,
+  "INTERVAL": 1000,
+
+  "STAND": {
+      "IMG": [
+        "elem3_stand_0_0.png"
+      ],
+      "CX": [-11],
+      "CY": [-39]
+  }
+
+}

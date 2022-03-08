@@ -1,0 +1,20 @@
+{
+  "TYPE": "common",
+  "NAME": "elem83",
+  "WIDTH": 1,
+  "HEIGHT": 3,
+  "BLOCK": [[[0, 0, 0, 0]],
+            [[1, 1, 1], [1, 1, 1]]],
+  "BREAKABLE": false,
+  "CAN_HIDE": false,
+  "INTERVAL": 1000,
+
+  "STAND": {
+      "IMG": [
+        "elem83_stand_0_0.png"
+      ],
+      "CX": [-7],
+      "CY": [0]
+  }
+
+}

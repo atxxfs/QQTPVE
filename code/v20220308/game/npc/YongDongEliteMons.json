@@ -1,0 +1,12 @@
+{
+  "name": "EliteMons",
+  "chs_name": "精锐魔王兵",
+  "character": "Character18804",
+  "blood": 6400,
+  "speed": 3,
+  "contact": 1200,
+  "defense": 2000,
+  "resent_dist": 6,
+  "skills": [
+  ]
+}

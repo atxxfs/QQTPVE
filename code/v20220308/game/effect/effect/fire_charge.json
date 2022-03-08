@@ -1,0 +1,14 @@
+{
+  "NAME": "fire_charge",
+  "MAGICS": [
+    {
+      "NAME": "magic0087",
+      "CX": 0,
+      "CY": -20,
+      "INTERVAL": 80,
+      "REPEAT": false,
+      "COLOR_SUB": [0, 64, 128],
+      "SPECIAL_FLAG": 1
+    }
+  ]
+}

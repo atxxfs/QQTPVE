@@ -1,0 +1,13 @@
+{
+  "name": "WinterBear",
+  "chs_name": "永冬熊",
+  "character": "Character18807",
+  "blood": 5000,
+  "speed": 3,
+  "contact": 600,
+  "defense": 800,
+  "resent_dist": 6,
+  "skills": [
+
+  ]
+}

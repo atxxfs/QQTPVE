@@ -1,0 +1,12 @@
+{
+  "name": "MiZhiDiSmallTree1",
+  "chs_name": "蓬头树",
+  "character": "Character18705",
+  "blood": 4000,
+  "speed": 2.5,
+  "contact": 800,
+  "defense": 800,
+  "resent_dist": 7,
+  "skills": [
+  ]
+}

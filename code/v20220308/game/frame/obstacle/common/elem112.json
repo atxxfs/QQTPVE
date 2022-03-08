@@ -1,0 +1,20 @@
+{
+  "TYPE": "common",
+  "NAME": "elem112",
+  "WIDTH": 1,
+  "HEIGHT": 1,
+  "BLOCK": [[[1, 0]],
+            [[0], [1]]],
+  "BREAKABLE": false,
+  "CAN_HIDE": true,
+  "INTERVAL": 1000,
+
+  "STAND": {
+      "IMG": [
+        "elem112_stand_0_0.png"
+      ],
+      "CX": [0],
+      "CY": [0]
+  }
+
+}

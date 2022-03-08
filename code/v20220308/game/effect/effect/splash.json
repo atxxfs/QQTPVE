@@ -1,0 +1,14 @@
+{
+  "NAME": "splash",
+  "MAGICS": [
+    {
+      "NAME": "magic0045",
+      "CX": 0,
+      "CY": 0,
+      "INTERVAL": 80,
+      "REPEAT": false,
+      "COLOR_ADD": [0, 0, 0],
+      "SPECIAL_FLAG": 0
+    }
+  ]
+}

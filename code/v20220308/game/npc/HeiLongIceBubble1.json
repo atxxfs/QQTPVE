@@ -1,0 +1,12 @@
+{
+  "name": "HeiLongIceBubble1",
+  "chs_name": "冰泡泡",
+  "character": "Character18301",
+  "blood": 300,
+  "speed": 3,
+  "contact": 0,
+  "defense": 0,
+  "resent_dist": 6,
+  "skills": [
+  ]
+}

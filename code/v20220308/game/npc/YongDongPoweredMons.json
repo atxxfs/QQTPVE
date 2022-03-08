@@ -1,0 +1,13 @@
+{
+  "name": "PoweredMons",
+  "chs_name": "勇猛的魔王兵",
+  "character": "Character18804",
+  "blood": 5000,
+  "speed": 3,
+  "contact": 1000,
+  "defense": 1500,
+  "resent_dist": 6,
+  "skills": [
+
+  ]
+}

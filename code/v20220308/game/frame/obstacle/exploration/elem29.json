@@ -1,0 +1,19 @@
+{
+  "TYPE": "exploration",
+  "NAME": "elem29",
+  "WIDTH": 1,
+  "HEIGHT": 1,
+  "BLOCK": [[[1, 1]], [[1], [1]]],
+  "BREAKABLE": false,
+  "CAN_HIDE": false,
+  "INTERVAL": 1000,
+
+  "STAND": {
+      "IMG": [
+        "elem29_stand_0_0.png"
+      ],
+      "CX": [0],
+      "CY": [0]
+  }
+
+}

@@ -1,0 +1,19 @@
+{
+  "TYPE": "field",
+  "NAME": "elem9",
+  "WIDTH": 1,
+  "HEIGHT": 1,
+  "BLOCK": [[[1, 1]], [[1], [1]]],
+  "BREAKABLE": false,
+  "CAN_HIDE": false,
+  "INTERVAL": 1000,
+
+  "STAND": {
+      "IMG": [
+        "elem9_stand_0_0.png"
+      ],
+      "CX": [-3],
+      "CY": [-16]
+  }
+
+}

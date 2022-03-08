@@ -1,0 +1,19 @@
+{
+  "NAME": "item2",
+  "INTERVAL": 300,
+
+  "STAND": {
+      "IMG": [
+        "item2_stand_0_0.png",
+        "item2_stand_0_1.png",
+        "item2_stand_0_2.png",
+        "item2_stand_0_3.png",
+        "item2_stand_0_4.png",
+        "item2_stand_0_5.png",
+        "item2_stand_0_6.png"
+      ],
+      "CX": [5, 5, 5, 5, 5, 5, 5],
+      "CY": [-8, -9, -10, -11, -10, -9, -8]
+  }
+
+}

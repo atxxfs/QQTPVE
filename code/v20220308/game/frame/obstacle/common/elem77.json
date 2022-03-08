@@ -1,0 +1,21 @@
+{
+  "TYPE": "common",
+  "NAME": "elem77",
+  "WIDTH": 1,
+  "HEIGHT": 1,
+  "BLOCK": [[[1, 1]], [[1], [1]]],
+  "BREAKABLE": false,
+  "CAN_HIDE": false,
+  "INTERVAL": 200,
+
+  "STAND": {
+    "IMG": [
+      "elem77_stand_0_0.png",
+      "elem77_stand_0_1.png",
+      "elem77_stand_0_2.png",
+      "elem77_stand_0_3.png"
+    ],
+    "CX": [5, 5, 5, 5],
+    "CY": [-19, -19, -19, -19]
+  }
+}

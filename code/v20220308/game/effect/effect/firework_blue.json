@@ -1,0 +1,14 @@
+{
+  "NAME": "firework_blue",
+  "MAGICS": [
+    {
+      "NAME": "magic0185",
+      "CX": 0,
+      "CY": 0,
+      "INTERVAL": 80,
+      "REPEAT": true,
+      "COLOR_ADD": [0, 0, 0],
+      "SPECIAL_FLAG": 0
+    }
+  ]
+}

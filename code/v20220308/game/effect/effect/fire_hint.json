@@ -1,0 +1,15 @@
+{
+  "NAME": "fire_hint",
+  "MAGICS": [
+    {
+      "NAME": "magic0090",
+      "CX": 0,
+      "CY": 0,
+      "INTERVAL": 1000,
+      "REPEAT": true,
+      "MAX_TIME": 5000,
+      "COLOR_ADD": [0, 0, 0],
+      "SPECIAL_FLAG": 0
+    }
+  ]
+}

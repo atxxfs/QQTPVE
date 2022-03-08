@@ -1,0 +1,19 @@
+{
+  "TYPE": "exploration",
+  "NAME": "elem24",
+  "WIDTH": 1,
+  "HEIGHT": 4,
+  "BLOCK": [[[1, 1, 1, 1, 1]], [[1, 1, 1, 1], [1, 1, 1, 1]]],
+  "BREAKABLE": false,
+  "CAN_HIDE": false,
+  "INTERVAL": 1000,
+
+  "STAND": {
+      "IMG": [
+        "elem24_stand_0_0.png"
+      ],
+      "CX": [-11],
+      "CY": [0]
+  }
+
+}

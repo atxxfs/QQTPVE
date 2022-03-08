@@ -1,0 +1,12 @@
+{
+  "name": "HeiLongFireBubble4",
+  "chs_name": "火泡泡",
+  "character": "Character17001",
+  "blood": 500,
+  "speed": 0,
+  "contact": 1,
+  "defense": 20,
+  "resent_dist": 5,
+  "skills": [
+  ]
+}

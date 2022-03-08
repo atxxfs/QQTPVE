@@ -1,0 +1,150 @@
+{
+
+    "NAME": "Character18807",
+
+    "STAND_R": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18807_stand_0_0.png",
+                "cloth18807_stand_0_1.png",
+                "cloth18807_stand_0_2.png",
+                "cloth18807_stand_0_3.png",
+                "cloth18807_stand_0_4.png",
+                "cloth18807_stand_0_5.png"
+            ],
+            "CX": [31, 31, 30, 31, 31, 32],
+            "CY": [30, 30, 31, 30, 30, 31]
+        }
+    },
+
+    "STAND_U": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18807_stand_0_0.png",
+                "cloth18807_stand_0_1.png",
+                "cloth18807_stand_0_2.png",
+                "cloth18807_stand_0_3.png",
+                "cloth18807_stand_0_4.png",
+                "cloth18807_stand_0_5.png"
+            ],
+            "CX": [31, 31, 30, 31, 31, 32],
+            "CY": [30, 30, 31, 30, 30, 31]
+        }
+    },
+
+    "STAND_L": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18807_stand_0_0.png",
+                "cloth18807_stand_0_1.png",
+                "cloth18807_stand_0_2.png",
+                "cloth18807_stand_0_3.png",
+                "cloth18807_stand_0_4.png",
+                "cloth18807_stand_0_5.png"
+            ],
+            "CX": [31, 31, 30, 31, 31, 32],
+            "CY": [30, 30, 31, 30, 30, 31]
+        }
+    },
+
+    "STAND_D": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18807_stand_0_0.png",
+                "cloth18807_stand_0_1.png",
+                "cloth18807_stand_0_2.png",
+                "cloth18807_stand_0_3.png",
+                "cloth18807_stand_0_4.png",
+                "cloth18807_stand_0_5.png"
+            ],
+            "CX": [31, 31, 30, 31, 31, 32],
+            "CY": [30, 30, 31, 30, 30, 31]
+        }
+    },
+
+    "R": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18807_walk_0_0.png",
+                "cloth18807_walk_0_1.png",
+                "cloth18807_walk_0_2.png",
+                "cloth18807_walk_0_3.png",
+                "cloth18807_walk_0_4.png",
+                "cloth18807_walk_0_5.png"
+            ],
+            "CX": [10, 10, 10, 10, 10, 10],
+            "CY": [30, 30, 32, 30, 30, 32]
+        }
+    },
+
+    "U": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18807_walk_1_0.png",
+                "cloth18807_walk_1_1.png",
+                "cloth18807_walk_1_2.png",
+                "cloth18807_walk_1_3.png",
+                "cloth18807_walk_1_4.png",
+                "cloth18807_walk_1_5.png"
+            ],
+            "CX": [31, 31, 30, 31, 31, 32],
+            "CY": [30, 30, 31, 30, 30, 31]
+        }
+    },
+
+    "L": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18807_walk_2_0.png",
+                "cloth18807_walk_2_1.png",
+                "cloth18807_walk_2_2.png",
+                "cloth18807_walk_2_3.png",
+                "cloth18807_walk_2_4.png",
+                "cloth18807_walk_2_5.png"
+            ],
+            "CX": [8, 8, 7, 8, 8, 8],
+            "CY": [30, 30, 32, 32, 32, 32]
+        }
+    },
+
+    "D": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18807_walk_3_0.png",
+                "cloth18807_walk_3_1.png",
+                "cloth18807_walk_3_2.png",
+                "cloth18807_walk_3_3.png",
+                "cloth18807_walk_3_4.png",
+                "cloth18807_walk_3_5.png"
+            ],
+            "CX": [31, 31, 30, 31, 31, 32],
+            "CY": [30, 30, 31, 30, 30, 31]
+        }
+    },
+
+    "INTERVAL": 200
+}

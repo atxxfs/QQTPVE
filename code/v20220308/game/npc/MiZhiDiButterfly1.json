@@ -1,0 +1,12 @@
+{
+  "name": "MiZhiDiButterfly1",
+  "chs_name": "花蝴蝶",
+  "character": "Character18709",
+  "blood": 2000,
+  "speed": 2.5,
+  "contact": 400,
+  "defense": 800,
+  "resent_dist": 7,
+  "skills": [
+  ]
+}

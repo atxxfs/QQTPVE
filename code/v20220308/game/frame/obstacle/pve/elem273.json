@@ -1,0 +1,19 @@
+{
+  "TYPE": "pve",
+  "NAME": "elem273",
+  "WIDTH": 1,
+  "HEIGHT": 1,
+  "BLOCK": [[[1, 1]], [[1], [1]]],
+  "BREAKABLE": false,
+  "CAN_HIDE": true,
+  "INTERVAL": 1000,
+
+  "STAND": {
+      "IMG": [
+        "elem273_stand_0_0.png"
+      ],
+      "CX": [-1],
+      "CY": [-42]
+  }
+
+}

@@ -1,0 +1,29 @@
+{
+  "TYPE": "exploration",
+  "NAME": "elem106",
+  "WIDTH": 1,
+  "HEIGHT": 1,
+  "BLOCK": [[[1, 1]], [[1], [1]]],
+  "BREAKABLE": true,
+  "CAN_HIDE": false,
+  "INTERVAL": 100,
+
+  "STAND": {
+      "IMG": [
+        "elem106_stand_0_0.png"
+      ],
+      "CX": [-2],
+      "CY": [-8]
+  },
+
+  "DIE": {
+      "IMG": [
+		"elem106_die_0_0.png",
+		"elem106_die_0_1.png",
+		"elem106_die_0_2.png"
+      ],
+      "CX": [1, 0, -1],
+      "CY": [7, 5, -3]
+  }
+
+}

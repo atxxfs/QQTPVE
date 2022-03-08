@@ -1,0 +1,119 @@
+{
+
+  "basic": {
+    "name": "YongDong1",
+    "width": 25,
+    "height": 13,
+    "scroll": [5, 0],
+    "music": "ewn02.ogg",
+    "begin": [20, 12],
+    "finish": [7, 0]
+  },
+
+  "floors": [
+    {
+      "type": "exploration", "name": "elem220",
+      "squares": [
+        {"x1": 0, "y1": 0, "x2": 24, "y2": 12}
+      ]
+    }
+  ],
+
+  "floor": [
+
+  ],
+
+  "obstacles": [
+    {
+      "type": "exploration", "name": "elem212",
+      "squares": [
+        {"x1": 0, "y1": 0, "x2": 0, "y2": 12},
+        {"x1": 1, "y1": 0, "x2": 6, "y2": 0},
+        {"x1": 1, "y1": 12, "x2": 19, "y2": 12},
+        {"x1": 4, "y1": 6, "x2": 10, "y2": 6},
+        {"x1": 6, "y1": 3, "x2": 8, "y2": 3},
+        {"x1": 8, "y1": 0, "x2": 23, "y2": 0},
+        {"x1": 11, "y1": 1, "x2": 11, "y2": 9},
+        {"x1": 16, "y1": 4, "x2": 16, "y2": 6},
+        {"x1": 17, "y1": 6, "x2": 17, "y2": 8},
+        {"x1": 18, "y1": 8, "x2": 18, "y2": 11},
+        {"x1": 24, "y1": 0, "x2": 24, "y2": 12}
+      ]
+    }
+  ],
+
+  "obstacle": [
+    {
+      "type": "exploration", "name": "elem212",
+      "points": [
+        {"x": 2, "y": 4},
+        {"x": 3, "y": 9},
+        {"x": 4, "y": 2},
+        {"x": 5, "y": 10},
+        {"x": 6, "y": 8},
+        {"x": 8, "y": 9},
+        {"x": 14, "y": 2},
+        {"x": 14, "y": 8},
+        {"x": 14, "y": 9},
+        {"x": 18, "y": 2},
+        {"x": 20, "y": 6},
+        {"x": 21, "y": 3},
+        {"x": 21, "y": 4},
+        {"x": 22, "y": 8},
+        {"x": 23, "y": 8}
+      ]
+    },
+    {
+      "type": "exploration", "name": "elem225",
+      "points": [
+        {"x": 2, "y": 6},
+        {"x": 3, "y": 5},
+        {"x": 3, "y": 7}
+      ]
+    },
+    {
+      "type": "exploration", "name": "elem226",
+      "points": [
+        {"x": 1, "y": 5},
+        {"x": 1, "y": 7},
+        {"x": 2, "y": 7},
+        {"x": 10, "y": 8}
+      ]
+    },
+    {
+      "type": "exploration", "name": "elem227",
+      "points": [
+        {"x": 1, "y": 6},
+        {"x": 2, "y": 5},
+        {"x": 3, "y": 6},
+        {"x": 9, "y": 9}
+      ]
+    }
+  ],
+
+  "districts": [
+    {
+      "square": {
+        "x1": 12, "y1": 1, "x2": 23, "y2": 11
+      },
+      "npcs": [
+        {"name": "YongDongPoweredMons", "x": 13, "y": 5},
+        {"name": "YongDongPoweredMons", "x": 16, "y": 8},
+        {"name": "YongDongWinterBear", "x": 19, "y": 3},
+        {"name": "YongDongWinterBear", "x": 22, "y": 3}
+      ]
+    },
+    {
+      "square": {
+        "x1": 1, "y1": 1, "x2": 10, "y2": 11
+      },
+      "npcs": [
+        {"name": "YongDongEliteMons", "x": 2, "y": 2},
+        {"name": "YongDongSnowElf", "x": 2, "y": 8},
+        {"name": "YongDongSnowElf", "x": 5, "y": 8},
+        {"name": "YongDongSnowElf", "x": 7, "y": 9}
+      ]
+    }
+  ]
+
+}

@@ -1,0 +1,15 @@
+{
+  "NAME": "thunder_trap",
+  "MAGICS": [
+    {
+      "NAME": "magic0092",
+      "CX": 0,
+      "CY": 0,
+      "INTERVAL": 50,
+      "REPEAT": true,
+      "COLOR_ADD": [0, 0, 0],
+      "ALPHA": [25, 50, 75, 100, 125, 150, 175, 200, 225, 250, 255, 225, 200, 175, 150, 125, 100, 75, 50, 25],
+      "SPECIAL_FLAG": 0
+    }
+  ]
+}

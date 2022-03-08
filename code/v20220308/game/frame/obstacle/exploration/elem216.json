@@ -1,0 +1,27 @@
+{
+  "TYPE": "exploration",
+  "NAME": "elem216",
+  "WIDTH": 1,
+  "HEIGHT": 1,
+  "BLOCK": [[[1, 1]], [[1], [1]]],
+  "BREAKABLE": true,
+  "CAN_HIDE": false,
+  "INTERVAL": 100,
+
+  "STAND": {
+      "IMG": [
+        "elem216_stand_0_0.png"
+      ],
+      "CX": [0],
+      "CY": [-17]
+  },
+
+  "DIE": {
+      "IMG": [
+        "elem216_stand_0_0.png"
+      ],
+      "CX": [0],
+      "CY": [-17]
+  }
+
+}

@@ -1,0 +1,12 @@
+{
+  "name": "MiZhiDiGreenWorm2",
+  "chs_name": "厉害的菜青虫",
+  "character": "Character18701",
+  "blood": 1000,
+  "speed": 2.5,
+  "contact": 50,
+  "defense": 200,
+  "resent_dist": 5,
+  "skills": [
+  ]
+}

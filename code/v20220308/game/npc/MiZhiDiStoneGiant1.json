@@ -1,0 +1,12 @@
+{
+  "name": "MiZhiDiStoneGiant1",
+  "chs_name": "石头人",
+  "character": "Character18707",
+  "blood": 15000,
+  "speed": 2.5,
+  "contact": 1400,
+  "defense": 3200,
+  "resent_dist": 7,
+  "skills": [
+  ]
+}

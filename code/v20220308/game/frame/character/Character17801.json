@@ -1,0 +1,150 @@
+{
+
+    "NAME": "Character17801",
+
+    "STAND_R": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth17801_stand_0_0.png",
+                "cloth17801_stand_0_1.png",
+                "cloth17801_stand_0_2.png",
+                "cloth17801_stand_0_3.png",
+                "cloth17801_stand_0_4.png",
+                "cloth17801_stand_0_5.png"
+            ],
+            "CX": [4, 5, 6, 8, 6, 5],
+            "CY": [3, 4, 5, 3, 4, 5]
+        }
+    },
+
+    "STAND_U": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth17801_stand_0_0.png",
+                "cloth17801_stand_0_1.png",
+                "cloth17801_stand_0_2.png",
+                "cloth17801_stand_0_3.png",
+                "cloth17801_stand_0_4.png",
+                "cloth17801_stand_0_5.png"
+            ],
+            "CX": [4, 5, 6, 8, 6, 5],
+            "CY": [3, 4, 5, 3, 4, 5]
+        }
+    },
+
+    "STAND_L": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth17801_stand_0_0.png",
+                "cloth17801_stand_0_1.png",
+                "cloth17801_stand_0_2.png",
+                "cloth17801_stand_0_3.png",
+                "cloth17801_stand_0_4.png",
+                "cloth17801_stand_0_5.png"
+            ],
+            "CX": [4, 5, 6, 8, 6, 5],
+            "CY": [3, 4, 5, 3, 4, 5]
+        }
+    },
+
+    "STAND_D": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth17801_stand_0_0.png",
+                "cloth17801_stand_0_1.png",
+                "cloth17801_stand_0_2.png",
+                "cloth17801_stand_0_3.png",
+                "cloth17801_stand_0_4.png",
+                "cloth17801_stand_0_5.png"
+            ],
+            "CX": [4, 5, 6, 8, 6, 5],
+            "CY": [3, 4, 5, 3, 4, 5]
+        }
+    },
+
+    "R": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth17801_walk_0_0.png",
+                "cloth17801_walk_0_1.png",
+                "cloth17801_walk_0_2.png",
+                "cloth17801_walk_0_3.png",
+                "cloth17801_walk_0_4.png",
+                "cloth17801_walk_0_5.png"
+            ],
+            "CX": [21, 21, 21, 21, 21, 16],
+            "CY": [8, 9, 10, 8, 9, 10]
+        }
+    },
+
+    "U": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth17801_walk_1_0.png",
+                "cloth17801_walk_1_1.png",
+                "cloth17801_walk_1_2.png",
+                "cloth17801_walk_1_3.png",
+                "cloth17801_walk_1_4.png",
+                "cloth17801_walk_1_5.png"
+            ],
+            "CX": [4, 5, 6, 8, 6, 5],
+            "CY": [15, 16, 17, 15, 16, 17]
+        }
+    },
+
+    "L": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth17801_walk_2_0.png",
+                "cloth17801_walk_2_1.png",
+                "cloth17801_walk_2_2.png",
+                "cloth17801_walk_2_3.png",
+                "cloth17801_walk_2_4.png",
+                "cloth17801_walk_2_5.png"
+            ],
+            "CX": [8, 8, 8, 8, 8, 8],
+            "CY": [8, 9, 10, 8, 9, 10]
+        }
+    },
+
+    "D": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth17801_walk_3_0.png",
+                "cloth17801_walk_3_1.png",
+                "cloth17801_walk_3_2.png",
+                "cloth17801_walk_3_3.png",
+                "cloth17801_walk_3_4.png",
+                "cloth17801_walk_3_5.png"
+            ],
+            "CX": [4, 5, 6, 8, 6, 5],
+            "CY": [3, 4, 5, 3, 4, 5]
+        }
+    },
+
+    "INTERVAL": 200
+}

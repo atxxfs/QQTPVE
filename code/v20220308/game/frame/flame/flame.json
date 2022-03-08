@@ -1,0 +1,84 @@
+{
+    "FLAME_C": {
+        "IMG": [
+            "flame_C_0.png",
+            "flame_C_1.png",
+            "flame_C_2.png"
+        ],
+        "CX": [0, 0, 0],
+        "CY": [0, 0, 0]
+    },
+
+    "FLAME_R": {
+        "IMG": [
+            "flame_R_0.png",
+            "flame_R_1.png",
+            "flame_R_2.png",
+            "flame_R_3.png",
+            "flame_R_4.png",
+            "flame_R_5.png",
+            "flame_R_6.png"
+        ],
+        "CX": [0, 0, 0, 0, 0, 0, 0],
+        "CY": [0, 0, 0, 0, 0, 0, 0]
+    },
+
+    "FLAME_U": {
+        "IMG": [
+            "flame_U_0.png",
+            "flame_U_1.png",
+            "flame_U_2.png",
+            "flame_U_3.png",
+            "flame_U_4.png",
+            "flame_U_5.png",
+            "flame_U_6.png"
+        ],
+        "CX": [0, 0, 0, 0, 0, 0, 0],
+        "CY": [0, 0, 0, 0, 0, 3, 9]
+    },
+
+    "FLAME_L": {
+
+        "IMG": [
+            "flame_L_0.png",
+            "flame_L_1.png",
+            "flame_L_2.png",
+            "flame_L_3.png",
+            "flame_L_4.png",
+            "flame_L_5.png",
+            "flame_L_6.png"
+        ],
+        "CX": [0, 0, 0, 0, 0, 3, 9],
+        "CY": [0, 0, 0, 0, 0, 0, 0]
+    },
+
+    "FLAME_D": {
+
+        "IMG": [
+            "flame_D_0.png",
+            "flame_D_1.png",
+            "flame_D_2.png",
+            "flame_D_3.png",
+            "flame_D_4.png",
+            "flame_D_5.png",
+            "flame_D_6.png"
+        ],
+        "CX": [0, 0, 0, 0, 0, 0, 0],
+        "CY": [0, 0, 0, 0, 0, 0, 0]
+    },
+
+    "FLAME_SEQ": [
+        [1, 2, 1, 2, 1, 2, 1, 2],
+        [5, 1, 5, 1, 5, 1, 5, 6],
+        [0, 1, 5, 1, 5, 1, 5, 0],
+        [2, 3, 4, 2, 3, 4, 2, 3],
+        [0, 2, 3, 4, 2, 3, 4, 0],
+        [1, 2, 3, 4, 2, 3, 4, 6]
+    ]
+
+}
+
+
+
+
+

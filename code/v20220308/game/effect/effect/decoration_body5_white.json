@@ -1,0 +1,14 @@
+{
+  "NAME": "decoration_body5_white",
+  "MAGICS": [
+    {
+      "NAME": "magic0150",
+      "CX": 0,
+      "CY": 0,
+      "INTERVAL": 80,
+      "REPEAT": true,
+      "COLOR_SUB": [0, 0, 0],
+      "SPECIAL_FLAG": 1
+    }
+  ]
+}

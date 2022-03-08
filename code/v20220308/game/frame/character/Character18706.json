@@ -1,0 +1,150 @@
+{
+
+    "NAME": "Character18706",
+
+    "STAND_R": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18706_stand_0_0.png",
+                "cloth18706_stand_0_1.png",
+                "cloth18706_stand_0_2.png",
+                "cloth18706_stand_0_3.png",
+                "cloth18706_stand_0_4.png",
+                "cloth18706_stand_0_5.png"
+            ],
+            "CX": [-18, -15, -12, -18, -18, -21],
+            "CY": [-23, -23, -22, -22, -23, -22]
+        }
+    },
+
+    "STAND_U": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18706_stand_0_0.png",
+                "cloth18706_stand_0_1.png",
+                "cloth18706_stand_0_2.png",
+                "cloth18706_stand_0_3.png",
+                "cloth18706_stand_0_4.png",
+                "cloth18706_stand_0_5.png"
+            ],
+            "CX": [-18, -15, -12, -18, -18, -21],
+            "CY": [-23, -23, -22, -22, -23, -22]
+        }
+    },
+
+    "STAND_L": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18706_stand_0_0.png",
+                "cloth18706_stand_0_1.png",
+                "cloth18706_stand_0_2.png",
+                "cloth18706_stand_0_3.png",
+                "cloth18706_stand_0_4.png",
+                "cloth18706_stand_0_5.png"
+            ],
+            "CX": [-18, -15, -12, -18, -18, -21],
+            "CY": [-23, -23, -22, -22, -23, -22]
+        }
+    },
+
+    "STAND_D": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18706_stand_0_0.png",
+                "cloth18706_stand_0_1.png",
+                "cloth18706_stand_0_2.png",
+                "cloth18706_stand_0_3.png",
+                "cloth18706_stand_0_4.png",
+                "cloth18706_stand_0_5.png"
+            ],
+            "CX": [-18, -15, -12, -18, -18, -21],
+            "CY": [-23, -23, -22, -22, -23, -22]
+        }
+    },
+
+    "R": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18706_walk_0_0.png",
+                "cloth18706_walk_0_1.png",
+                "cloth18706_walk_0_2.png",
+                "cloth18706_walk_0_3.png",
+                "cloth18706_walk_0_4.png",
+                "cloth18706_walk_0_5.png"
+            ],
+            "CX": [-7, -7, -10, -7, -5, -5],
+            "CY": [-20, -20, -19, -19, -20, -19]
+        }
+    },
+
+    "U": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18706_walk_1_0.png",
+                "cloth18706_walk_1_1.png",
+                "cloth18706_walk_1_2.png",
+                "cloth18706_walk_1_3.png",
+                "cloth18706_walk_1_4.png",
+                "cloth18706_walk_1_5.png"
+            ],
+            "CX": [-18, -15, -12, -18, -18, -21],
+            "CY": [-21, -21, -20, -20, -21, -20]
+        }
+    },
+
+    "L": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18706_walk_2_0.png",
+                "cloth18706_walk_2_1.png",
+                "cloth18706_walk_2_2.png",
+                "cloth18706_walk_2_3.png",
+                "cloth18706_walk_2_4.png",
+                "cloth18706_walk_2_5.png"
+            ],
+            "CX": [-5, -5, -5, -5, -5, -5],
+            "CY": [-21, -21, -20, -20, -21, -20]
+        }
+    },
+
+    "D": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18706_walk_3_0.png",
+                "cloth18706_walk_3_1.png",
+                "cloth18706_walk_3_2.png",
+                "cloth18706_walk_3_3.png",
+                "cloth18706_walk_3_4.png",
+                "cloth18706_walk_3_5.png"
+            ],
+            "CX": [-18, -15, -12, -18, -18, -21],
+            "CY": [-23, -23, -22, -22, -23, -22]
+        }
+    },
+
+    "INTERVAL": 200
+}

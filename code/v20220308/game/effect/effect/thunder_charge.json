@@ -1,0 +1,14 @@
+{
+  "NAME": "thunder_charge",
+  "MAGICS": [
+    {
+      "NAME": "magic0087",
+      "CX": 0,
+      "CY": -20,
+      "INTERVAL": 80,
+      "REPEAT": false,
+      "COLOR_SUB": [64, 32, 0],
+      "SPECIAL_FLAG": 1
+    }
+  ]
+}

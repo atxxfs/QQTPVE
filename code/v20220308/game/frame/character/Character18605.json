@@ -1,0 +1,150 @@
+{
+
+    "NAME": "Character18605",
+
+    "STAND_R": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18605_stand_0_0.png",
+                "cloth18605_stand_0_1.png",
+                "cloth18605_stand_0_2.png",
+                "cloth18605_stand_0_3.png",
+                "cloth18605_stand_0_4.png",
+                "cloth18605_stand_0_5.png"
+            ],
+            "CX": [-39, -45, -51, -45, -39, -41],
+            "CY": [-32, -34, -34, -32, -35, -34]
+        }
+    },
+
+    "STAND_U": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18605_stand_0_0.png",
+                "cloth18605_stand_0_1.png",
+                "cloth18605_stand_0_2.png",
+                "cloth18605_stand_0_3.png",
+                "cloth18605_stand_0_4.png",
+                "cloth18605_stand_0_5.png"
+            ],
+            "CX": [-39, -45, -51, -45, -39, -41],
+            "CY": [-32, -34, -34, -32, -35, -34]
+        }
+    },
+
+    "STAND_L": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18605_stand_0_0.png",
+                "cloth18605_stand_0_1.png",
+                "cloth18605_stand_0_2.png",
+                "cloth18605_stand_0_3.png",
+                "cloth18605_stand_0_4.png",
+                "cloth18605_stand_0_5.png"
+            ],
+            "CX": [-39, -45, -51, -45, -39, -41],
+            "CY": [-32, -34, -34, -32, -35, -34]
+        }
+    },
+
+    "STAND_D": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18605_stand_0_0.png",
+                "cloth18605_stand_0_1.png",
+                "cloth18605_stand_0_2.png",
+                "cloth18605_stand_0_3.png",
+                "cloth18605_stand_0_4.png",
+                "cloth18605_stand_0_5.png"
+            ],
+            "CX": [-39, -45, -51, -45, -39, -41],
+            "CY": [-32, -34, -34, -32, -35, -34]
+        }
+    },
+
+    "R": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18605_walk_0_0.png",
+                "cloth18605_walk_0_1.png",
+                "cloth18605_walk_0_2.png",
+                "cloth18605_walk_0_3.png",
+                "cloth18605_walk_0_4.png",
+                "cloth18605_walk_0_5.png"
+            ],
+            "CX": [-58, -58, -60, -58, -61, -60],
+            "CY": [18, 17, 12, 17, 18, 14]
+        }
+    },
+
+    "U": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18605_walk_1_0.png",
+                "cloth18605_walk_1_1.png",
+                "cloth18605_walk_1_2.png",
+                "cloth18605_walk_1_3.png",
+                "cloth18605_walk_1_4.png",
+                "cloth18605_walk_1_5.png"
+            ],
+            "CX": [-40, -46, -52, -46, -40, -42],
+            "CY": [-6, -5, -7, -5, -6, -5]
+        }
+    },
+
+    "L": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18605_walk_2_0.png",
+                "cloth18605_walk_2_1.png",
+                "cloth18605_walk_2_2.png",
+                "cloth18605_walk_2_3.png",
+                "cloth18605_walk_2_4.png",
+                "cloth18605_walk_2_5.png"
+            ],
+            "CX": [-49, -50, -49, -49, -50, -49],
+            "CY": [18, 17, 12, 17, 18, 14]
+        }
+    },
+
+    "D": {
+        "Len": 6,
+        "Cx": -50,
+        "Cy": -74,
+        "Cloth": {
+            "IMG": [
+                "cloth18605_walk_3_0.png",
+                "cloth18605_walk_3_1.png",
+                "cloth18605_walk_3_2.png",
+                "cloth18605_walk_3_3.png",
+                "cloth18605_walk_3_4.png",
+                "cloth18605_walk_3_5.png"
+            ],
+            "CX": [-39, -45, -51, -45, -39, -41],
+            "CY": [-32, -34, -34, -32, -35, -34]
+        }
+    },
+
+    "INTERVAL": 200
+}

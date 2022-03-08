@@ -1,0 +1,16 @@
+{
+  "NAME": "bomb1",
+  "INTERVAL": 300,
+
+  "STAND": {
+      "IMG": [
+        "bomb1_stand_0_0.png",
+        "bomb1_stand_0_1.png",
+        "bomb1_stand_0_2.png",
+        "bomb1_stand_0_3.png"
+      ],
+      "CX": [3, 3, 3, 0],
+      "CY": [3, -2, 3, 5]
+  }
+
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HeiLongCubDragonRed2",
+  "chs_name": "火龙幼崽",
+  "character": "Character18601",
+  "blood": 20000,
+  "speed": 3.5,
+  "contact": 800,
+  "defense": 4000,
+  "resent_dist": 6,
+  "skills": [
+
+  ]
+}

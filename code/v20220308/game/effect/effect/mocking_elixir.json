@@ -1,0 +1,23 @@
+{
+  "NAME": "mocking_elixir",
+  "MAGICS": [
+    {
+      "NAME": "magic0106",
+      "CX": -40,
+      "CY": -110,
+      "INTERVAL": 80,
+      "REPEAT": false,
+      "COLOR_ADD": [0, 0, 0],
+      "SPECIAL_FLAG": 0
+    },
+    {
+      "NAME": "magic0117",
+      "CX": 0,
+      "CY": -56,
+      "INTERVAL": 50,
+      "REPEAT": false,
+      "ALPHA": [32, 64, 96, 128, 160, 192, 224 ,255, 255, 224, 192, 160, 128, 96, 64, 32],
+      "SPECIAL_FLAG": 0
+    }
+  ]
+}
