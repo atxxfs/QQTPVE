@@ -410,7 +410,37 @@ class Player(updatable.Updatable):
         point = (self.x, self.y)
         cl = level.current_level
         if cl.grid_damage_frame and current_time - cl.grid_damage_time[point] < cl.accumulation_time:
-            self.try_damage(cl.grid_damage_blood[point])
+            if self.half_body_safe(point, cl, current_time) == False:
+                self.try_damage(cl.grid_damage_blood[point])
+
+    def half_body_safe(self, point, cl, current_time):
+        # 四个方向判断是否处在半身位置，以像素点<=2来判断无伤位置
+        is_safe = False
+        # 处在伤害格子的左侧，且同时右侧格子无伤害
+        l_pos = self.x_pos - self.x * G.GAME_SQUARE
+        l_point = (point[0]-1, point[1])
+        if l_pos >= 0 and l_pos <= G.HALF_BODY_PIXEL:
+            if current_time - cl.grid_damage_time[l_point] >= cl.accumulation_time:
+                is_safe = True
+        # 处在伤害格子的右侧，且同时左侧格子无伤害
+        r_pos = ((self.x + 1) * G.GAME_SQUARE) - self.x_pos
+        r_point = (point[0]+1, point[1])
+        if r_pos >= 0 and r_pos <= G.HALF_BODY_PIXEL:
+            if current_time - cl.grid_damage_time[r_point] >= cl.accumulation_time:
+                is_safe = True
+        # 处在伤害格子的下侧，且同时下侧格子无伤害
+        d_pos = ((self.y + 1) * G.GAME_SQUARE) - self.y_pos
+        d_point = (point[0], point[1]+1)
+        if d_pos >= 0 and d_pos <= G.HALF_BODY_PIXEL:
+            if current_time - cl.grid_damage_time[d_point] >= cl.accumulation_time:
+                is_safe = True
+        # 处在伤害格子的上侧，且同时上侧格子无伤害
+        u_pos = self.y_pos- (self.y * G.GAME_SQUARE)
+        u_point = (point[0], point[1]-1)
+        if u_pos >= 0 and u_pos <= G.HALF_BODY_PIXEL:
+            if current_time - cl.grid_damage_time[u_point] >= cl.accumulation_time:
+                is_safe = True
+        return is_safe
 
     def try_damage(self, damage_blood: int, direction="C"):
         if self.state != PlayerState.NORMAL:
