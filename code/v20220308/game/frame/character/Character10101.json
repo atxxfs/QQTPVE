@@ -43,21 +43,21 @@
         },
         "Face": {
             "IMG": [
-                "Face10101_stand_0_0.png"
+                "face10101_stand_0_0.png"
             ],
             "CX": [33],
             "CY": [29]
         },
         "Hair": {
             "IMG": [
-                "Hair10101_stand_0_0.png"
+                "hair10101_stand_0_0.png"
             ],
             "CX": [27],
             "CY": [21]
         },
         "Hair_m": {
             "IMG": [
-                "Hair10101_stand_m_0_0.png"
+                "hair10101_stand_m_0_0.png"
             ],
             "CX": [27],
             "CY": [21]
@@ -119,21 +119,21 @@
         },
         "Face": {
             "IMG": [
-                "Face10101_stand_1_0.png"
+                "face10101_stand_1_0.png"
             ],
             "CX": [32],
             "CY": [28]
         },
         "Hair": {
             "IMG": [
-                "Hair10101_stand_1_0.png"
+                "hair10101_stand_1_0.png"
             ],
             "CX": [28],
             "CY": [21]
         },
         "Hair_m": {
             "IMG": [
-                "Hair10101_stand_m_1_0.png"
+                "hair10101_stand_m_1_0.png"
             ],
             "CX": [28],
             "CY": [21]
@@ -195,21 +195,21 @@
         },
         "Face": {
             "IMG": [
-                "Face10101_stand_2_0.png"
+                "face10101_stand_2_0.png"
             ],
             "CX": [34],
             "CY": [29]
         },
         "Hair": {
             "IMG": [
-                "Hair10101_stand_2_0.png"
+                "hair10101_stand_2_0.png"
             ],
             "CX": [29],
             "CY": [21]
         },
         "Hair_m": {
             "IMG": [
-                "Hair10101_stand_m_2_0.png"
+                "hair10101_stand_m_2_0.png"
             ],
             "CX": [29],
             "CY": [21]
@@ -271,21 +271,21 @@
         },
         "Face": {
             "IMG": [
-                "Face10101_stand_3_0.png"
+                "face10101_stand_3_0.png"
             ],
             "CX": [32],
             "CY": [28]
         },
         "Hair": {
             "IMG": [
-                "Hair10101_stand_3_0.png"
+                "hair10101_stand_3_0.png"
             ],
             "CX": [28],
             "CY": [21]
         },
         "Hair_m": {
             "IMG": [
-                "Hair10101_stand_m_3_0.png"
+                "hair10101_stand_m_3_0.png"
             ],
             "CX": [28],
             "CY": [21]
@@ -372,36 +372,36 @@
         },
         "Face": {
             "IMG": [
-                "Face10101_walk_0_0.png",
-                "Face10101_walk_0_1.png",
-                "Face10101_walk_0_2.png",
-                "Face10101_walk_0_3.png",
-                "Face10101_walk_0_4.png",
-                "Face10101_walk_0_5.png"
+                "face10101_walk_0_0.png",
+                "face10101_walk_0_1.png",
+                "face10101_walk_0_2.png",
+                "face10101_walk_0_3.png",
+                "face10101_walk_0_4.png",
+                "face10101_walk_0_5.png"
             ],
             "CX": [33, 33, 33, 33, 33, 33],
             "CY": [29, 29, 29, 29, 29, 29]
         },
         "Hair": {
             "IMG": [
-                "Hair10101_walk_0_0.png",
-                "Hair10101_walk_0_1.png",
-                "Hair10101_walk_0_2.png",
-                "Hair10101_walk_0_3.png",
-                "Hair10101_walk_0_4.png",
-                "Hair10101_walk_0_5.png"
+                "hair10101_walk_0_0.png",
+                "hair10101_walk_0_1.png",
+                "hair10101_walk_0_2.png",
+                "hair10101_walk_0_3.png",
+                "hair10101_walk_0_4.png",
+                "hair10101_walk_0_5.png"
             ],
             "CX": [27, 27, 27, 27, 27, 27],
             "CY": [21, 21, 21, 21, 21, 21]
         },
         "Hair_m": {
             "IMG": [
-                "Hair10101_walk_m_0_0.png",
-                "Hair10101_walk_m_0_1.png",
-                "Hair10101_walk_m_0_2.png",
-                "Hair10101_walk_m_0_3.png",
-                "Hair10101_walk_m_0_4.png",
-                "Hair10101_walk_m_0_5.png"
+                "hair10101_walk_m_0_0.png",
+                "hair10101_walk_m_0_1.png",
+                "hair10101_walk_m_0_2.png",
+                "hair10101_walk_m_0_3.png",
+                "hair10101_walk_m_0_4.png",
+                "hair10101_walk_m_0_5.png"
             ],
             "CX": [27, 27, 27, 27, 27, 27],
             "CY": [21, 21, 21, 21, 21, 21]
@@ -498,36 +498,36 @@
         },
         "Face": {
             "IMG": [
-                "Face10101_walk_1_0.png",
-                "Face10101_walk_1_1.png",
-                "Face10101_walk_1_2.png",
-                "Face10101_walk_1_3.png",
-                "Face10101_walk_1_4.png",
-                "Face10101_walk_1_5.png"
+                "face10101_walk_1_0.png",
+                "face10101_walk_1_1.png",
+                "face10101_walk_1_2.png",
+                "face10101_walk_1_3.png",
+                "face10101_walk_1_4.png",
+                "face10101_walk_1_5.png"
             ],
             "CX": [32, 33, 34, 32, 32, 33],
             "CY": [28, 28, 28, 28, 28, 28]
         },
         "Hair": {
             "IMG": [
-                "Hair10101_walk_1_0.png",
-                "Hair10101_walk_1_1.png",
-                "Hair10101_walk_1_2.png",
-                "Hair10101_walk_1_3.png",
-                "Hair10101_walk_1_4.png",
-                "Hair10101_walk_1_5.png"
+                "hair10101_walk_1_0.png",
+                "hair10101_walk_1_1.png",
+                "hair10101_walk_1_2.png",
+                "hair10101_walk_1_3.png",
+                "hair10101_walk_1_4.png",
+                "hair10101_walk_1_5.png"
             ],
             "CX": [28, 28, 29, 28, 28, 29],
             "CY": [21, 21, 21, 21, 21, 21]
         },
         "Hair_m": {
             "IMG": [
-                "Hair10101_walk_m_1_0.png",
-                "Hair10101_walk_m_1_1.png",
-                "Hair10101_walk_m_1_2.png",
-                "Hair10101_walk_m_1_3.png",
-                "Hair10101_walk_m_1_4.png",
-                "Hair10101_walk_m_1_5.png"
+                "hair10101_walk_m_1_0.png",
+                "hair10101_walk_m_1_1.png",
+                "hair10101_walk_m_1_2.png",
+                "hair10101_walk_m_1_3.png",
+                "hair10101_walk_m_1_4.png",
+                "hair10101_walk_m_1_5.png"
             ],
             "CX": [28, 28, 29, 28, 28, 29],
             "CY": [21, 21, 21, 21, 21, 21]
@@ -624,36 +624,36 @@
         },
         "Face": {
             "IMG": [
-                "Face10101_walk_2_0.png",
-                "Face10101_walk_2_1.png",
-                "Face10101_walk_2_2.png",
-                "Face10101_walk_2_3.png",
-                "Face10101_walk_2_4.png",
-                "Face10101_walk_2_5.png"
+                "face10101_walk_2_0.png",
+                "face10101_walk_2_1.png",
+                "face10101_walk_2_2.png",
+                "face10101_walk_2_3.png",
+                "face10101_walk_2_4.png",
+                "face10101_walk_2_5.png"
             ],
             "CX": [34, 34, 34, 34, 34, 34],
             "CY": [29, 29, 29, 29, 29, 29]
         },
         "Hair": {
             "IMG": [
-                "Hair10101_walk_2_0.png",
-                "Hair10101_walk_2_1.png",
-                "Hair10101_walk_2_2.png",
-                "Hair10101_walk_2_3.png",
-                "Hair10101_walk_2_4.png",
-                "Hair10101_walk_2_5.png"
+                "hair10101_walk_2_0.png",
+                "hair10101_walk_2_1.png",
+                "hair10101_walk_2_2.png",
+                "hair10101_walk_2_3.png",
+                "hair10101_walk_2_4.png",
+                "hair10101_walk_2_5.png"
             ],
             "CX": [29, 30, 30, 29, 29, 30],
             "CY": [21, 21, 21, 21, 21, 21]
         },
         "Hair_m": {
             "IMG": [
-                "Hair10101_walk_m_2_0.png",
-                "Hair10101_walk_m_2_1.png",
-                "Hair10101_walk_m_2_2.png",
-                "Hair10101_walk_m_2_3.png",
-                "Hair10101_walk_m_2_4.png",
-                "Hair10101_walk_m_2_5.png"
+                "hair10101_walk_m_2_0.png",
+                "hair10101_walk_m_2_1.png",
+                "hair10101_walk_m_2_2.png",
+                "hair10101_walk_m_2_3.png",
+                "hair10101_walk_m_2_4.png",
+                "hair10101_walk_m_2_5.png"
             ],
             "CX": [29, 30, 30, 29, 29, 30],
             "CY": [21, 21, 21, 21, 21, 21]
@@ -750,36 +750,36 @@
         },
         "Face": {
             "IMG": [
-                "Face10101_walk_3_0.png",
-                "Face10101_walk_3_1.png",
-                "Face10101_walk_3_2.png",
-                "Face10101_walk_3_3.png",
-                "Face10101_walk_3_4.png",
-                "Face10101_walk_3_5.png"
+                "face10101_walk_3_0.png",
+                "face10101_walk_3_1.png",
+                "face10101_walk_3_2.png",
+                "face10101_walk_3_3.png",
+                "face10101_walk_3_4.png",
+                "face10101_walk_3_5.png"
             ],
             "CX": [32, 33, 34, 32, 32, 33],
             "CY": [28, 28, 28, 28, 28, 28]
         },
         "Hair": {
             "IMG": [
-                "Hair10101_walk_3_0.png",
-                "Hair10101_walk_3_1.png",
-                "Hair10101_walk_3_2.png",
-                "Hair10101_walk_3_3.png",
-                "Hair10101_walk_3_4.png",
-                "Hair10101_walk_3_5.png"
+                "hair10101_walk_3_0.png",
+                "hair10101_walk_3_1.png",
+                "hair10101_walk_3_2.png",
+                "hair10101_walk_3_3.png",
+                "hair10101_walk_3_4.png",
+                "hair10101_walk_3_5.png"
             ],
             "CX": [28, 29, 30, 28, 28, 28],
             "CY": [21, 21, 21, 21, 21, 21]
         },
         "Hair_m": {
             "IMG": [
-                "Hair10101_walk_m_3_0.png",
-                "Hair10101_walk_m_3_1.png",
-                "Hair10101_walk_m_3_2.png",
-                "Hair10101_walk_m_3_3.png",
-                "Hair10101_walk_m_3_4.png",
-                "Hair10101_walk_m_3_5.png"
+                "hair10101_walk_m_3_0.png",
+                "hair10101_walk_m_3_1.png",
+                "hair10101_walk_m_3_2.png",
+                "hair10101_walk_m_3_3.png",
+                "hair10101_walk_m_3_4.png",
+                "hair10101_walk_m_3_5.png"
             ],
             "CX": [28, 29, 30, 28, 28, 28],
             "CY": [21, 21, 21, 21, 21, 21]
